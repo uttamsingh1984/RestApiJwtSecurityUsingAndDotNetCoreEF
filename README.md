@@ -12,7 +12,10 @@ Identity
 
 Claim Based Authorization
 
+
 Dependencies
+
+
 
 AutoMapper 9.0.0
 
@@ -25,3 +28,11 @@ Microsoft.EntityFrameworkCore.Tools 2.2.0
 Microsoft.IdentityModel.Tokens 5.6.0
 
 System.IdentityModel.Tokens.Jwt 5.6.0
+
+
+
+Microsoft.AspNetCore.Identity.EntityFrameworkCore 2.2.0
+
+Microsoft.EntityFrameworkCore.Design 2.2.0
+
+Microsoft.EntityFrameworkCore.SqlServer 2.2.0
